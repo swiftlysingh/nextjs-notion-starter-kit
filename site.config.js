@@ -12,7 +12,7 @@ module.exports = {
   author: 'Pushpinder Pal Singh',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: 'I am a Software Developer, trying to find my purpose on this beautiful big blue ball',
   socialImageTitle: 'SwiftlySingh',
   socialImageSubtitle: 'Hello World! 👋',
 
@@ -37,7 +37,7 @@ module.exports = {
   // whether or not to enable support for LQIP preview images (optional)
   // NOTE: this requires you to set up Google Firebase and add the environment
   // variables specified in .env.example
-  isPreviewImageSupportEnabled: false,
+  isPreviewImageSupportEnabled: true,
 
   // map of notion page IDs to URL paths (optional)
   // any pages defined here will override their default URL paths
