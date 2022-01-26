@@ -343,3 +343,7 @@
 .notion-header .button {
   visibility: hidden;
 }
+
+.notion-hr {
+  margin: 1em; 
+}
