@@ -12,7 +12,7 @@ module.exports = {
   author: 'Devesh Sangwan',
 
   // open graph metadata (optional)
-  description: 'Example site description',
+  description: "Hey! I'm Devesh Sangwan, a software developer",
   socialImageTitle: 'Devesh Sangwan',
   socialImageSubtitle: 'Hello World! 👋',
 
