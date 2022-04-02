@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "name": "Pushpinder Pal Singh",
   "short_name": "SwiftlySingh",
+=======
+  "name": "Devesh Sangwan",
+  "short_name": "Devesh",
+>>>>>>> 5b39f07c6fa5803d4b7c91f438640b7e87c481f1
   "icons": [
     {
       "src": "/favicon-16x16.png",
