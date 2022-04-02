@@ -32,11 +32,7 @@ import { PageHead } from './PageHead'
 import { PageActions } from './PageActions'
 import { Footer } from './Footer'
 import { PageSocial } from './PageSocial'
-<<<<<<< HEAD
-import { ReactUtterances } from './ReactUtterances'
-=======
 import { GitHubShareButton } from './GitHubShareButton'
->>>>>>> transitive-bullshit-main
 
 import styles from './styles.module.css'
 
