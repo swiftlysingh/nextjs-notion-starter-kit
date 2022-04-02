@@ -32,10 +32,6 @@ import { PageHead } from './PageHead'
 import { PageActions } from './PageActions'
 import { Footer } from './Footer'
 import { PageSocial } from './PageSocial'
-<<<<<<< HEAD
-import { ReactUtterances } from './ReactUtterances'
-=======
->>>>>>> 5b39f07c6fa5803d4b7c91f438640b7e87c481f1
 
 import styles from './styles.module.css'
 
@@ -206,10 +202,6 @@ export const NotionPage: React.FC<types.PageProps> = ({
           />
         }
       />
-<<<<<<< HEAD
-=======
-
->>>>>>> 5b39f07c6fa5803d4b7c91f438640b7e87c481f1
     </TwitterContextProvider>
   )
 }
