@@ -19,3 +19,16 @@ module.exports = withBundleAnalyzer({
     contentSecurityPolicy: "default-src 'self'; script-src 'none'; sandbox;"
   }
 })
+
+module.exports = {
+  async redirects() {
+    return [
+      {
+        source: '/gsoc-final-report',
+        destination: 'https://swiftlysingh.substack.com/p/gsoc-final-report',
+        permanent: false,
+        basePath: false
+      },
+    ]
+  },
+};
